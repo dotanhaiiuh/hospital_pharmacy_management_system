@@ -1,0 +1,14 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling e:\Documents\eclipse1\QuanLyNhaThuoc1\data\Help\Help.chm
+
+
+Compile time: 0 minutes, 3 seconds
+4	Topics
+4	Local links
+0	Internet links
+22	Graphics
+
+
+Created e:\Documents\eclipse1\QuanLyNhaThuoc1\data\Help\Help.chm, 880,796 bytes
+Compression decreased file by 172,248 bytes.
